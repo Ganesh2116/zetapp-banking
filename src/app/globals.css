@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@layer base {
+button {
+  @apply focus:outline-none;
+}
+p {
+  @apply text-[16px] font-[500];
+}
+}
+
+@layer utilities {
+
+  .clip-1 {
+    clip-path: polygon(0% 13%, 100% 0%, 100% 87%, 0% 100%);
+  }
+  
+ .clip-2 {
+    clip-path: polygon(0% 27%, 100% 0%, 100% 73%, 0% 100%);
+ }
+  .clip-bg {
+    @apply clip-1 md:clip-2;
+  }
+
+  .product-card-container:hover .product-card {
+    box-shadow: rgba(0, 16, 60, 0.03) 3px 3px 18px 0px;
+    background-color: white !important;
+}
+}
