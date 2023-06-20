@@ -2,7 +2,6 @@
 import BrandsCarousel from "@/components/home/BrandsCarousel";
 import StartEarningCarousel from "@/components/home/StartEarningCarousel";
 import TheZetEffectCarousel from "@/components/home/TheZetEffectCarousel";
-import product from "@/lib/utils/product";
 import whyChoose from "@/lib/utils/whyChoose";
 import Image from "next/image";
 import Link from "next/link";
