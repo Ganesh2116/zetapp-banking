@@ -1,34 +1,35 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# ZetApp Banking Clone
 
-## Getting Started
+### Domain:
 
-First, run the development server:
+Front-End Developer.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+### Technologies/Tools:
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+HTML,TailwindCSS, JavaScript,Nextjs,TypeScript,
+framer-motion,carousel,GitHub.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### Hosted url -
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+https://zetapp-assignment-gkb.vercel.app/
 
-## Learn More
+### Introduction
 
-To learn more about Next.js, take a look at the following resources:
+Introducing the ZetApp Banking Clone a cutting-edge solution that redefines the banking experience for the digital age. With meticulous attention to detail and advanced technology, our clone brings the functionalities of a modern banking system to you. Seamlessly blending convenience with security, our platform offers a comprehensive suite of banking services accessible anytime, anywhere.
+Open Resume builder App put first name and other details. Click → Submit](https://zetapp-assignment-gkb.vercel.app/)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+### Landing Page
 
-## Deploy on Vercel
+Experience the next generation of banking with ZetApp Banking Clone. Our cutting-edge platform combines state-of-the-art technology with intuitive design to deliver a seamless banking experience tailored for the modern user.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+#### Home
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+The Home page is the first page that users see when they visit the ZetApp Banking Clone. It serves as the main landing page and provides an overview of the platform's features and services. The Home page is designed to be visually appealing and user-friendly, with clear navigation and intuitive design elements.
+
+<img src='zetApp-home.png'>
+
+#### About
+
+The About page provides users with information about the ZetApp Banking Clone, including its mission, vision, and values. This page is designed to give users a better understanding of the platform and its goals, as well as the team behind it. The About page is an essential part of the platform's branding and marketing strategy.
+<img src='zetApp-about.png'>
